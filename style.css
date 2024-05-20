@@ -1,0 +1,35 @@
+body{
+    font-family: Arial;
+    display: block;
+    }
+    header{
+        width: 980px;
+        height: 140px;
+        background-color: red;
+        margin-left: 10%;
+        text-align: center;
+    }
+    footer{
+        width: 980px;
+        height: 70px;
+        background-color: green;
+        margin-left: 10%;
+        text-align: center;
+    }
+    article{
+        width: 690px;
+        height: 450px;
+        background-color: blue;
+        display: inline-block;
+        margin-left: 10px;
+        margin-top: 15px;
+        text-align: center;
+    }
+    aside{
+        width: 270px;
+        height: 450px;
+        background-color: yellow;
+        display: inline-block;
+        margin-left: 10%;
+        text-align: center;
+    }
